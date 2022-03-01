@@ -1,0 +1,2 @@
+# python_change_outer_class_variable_in_a_class_function
+类改变类外面变量的方法
